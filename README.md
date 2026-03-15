@@ -112,8 +112,3 @@ Recalibrate ROI if camera or setup changes
 Open for educational and research use.
 Developed by Sıdra Öztürk 🧠
 Python + STM32 Embedded Vision Project
-
-
----
-
-Would you like me to make a **simple diagram (text-based or image)** showing the system flow — e.g. “Camera → Python → UART → STM32 → Servos”? It would look great at the top of the README.
